@@ -1,1 +1,1 @@
-# visitorRegFrontend
+1. Det enda du behöver göra är att gå in på denna länk "https://ragnarsolve.github.io/visitorRegFrontend/" och sedan skriva in något namn du vill lägga till i databasen och sedan trycka på Register knappen så ska det stå "Name Added" om det funkar.
